@@ -23,3 +23,10 @@ LinkedList_3-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/S
 LinkedList_4-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20102828.png)
 
 LinkedList_5-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20102846.png)
+
+#program_2a
+program_2a- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20195632.png)
+program_2a_cont- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20195707.png)
+
+#program_2b
+program_2b- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20195830.png)
