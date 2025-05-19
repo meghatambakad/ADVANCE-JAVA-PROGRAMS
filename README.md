@@ -1,1 +1,3 @@
 Program01_ArrayList and a LinkedList output-link->(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20101850.png)
+
+ArrayList_1-
