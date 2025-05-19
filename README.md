@@ -11,3 +11,15 @@ ArrayList_3-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Sc
 ArrayList_4-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20102516.png)
 
 ArrayList_5-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20102617.png)
+
+# Exercise_program1_Linkedlist
+
+LinkedList_1-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20102640.png)
+
+LinkedList_2-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20102746.png)
+
+LinkedList_3-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20102812.png)
+
+LinkedList_4-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20102828.png)
+
+LinkedList_5-(https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20102846.png)
