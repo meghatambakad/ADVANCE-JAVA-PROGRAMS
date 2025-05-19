@@ -7,7 +7,6 @@ package assignment;
 public class StringHandlingDemo {
 	public static void main(String[] args) {
 		// Basic String Creation
-		System.out.println("=== String Creation and Basic Operations ===");
 		String str1 = "Hello, World!";
 		String str2 = new String("Java Programming");
 		System.out.println("Original strings:");
