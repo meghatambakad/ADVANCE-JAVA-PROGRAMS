@@ -30,3 +30,7 @@ program_2a_cont- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/ma
 
 # program_2b
 program_2b- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20195830.png)
+
+# program_3a
+program_3a- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20195632.png)
+program_3a_cont- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20195707.png)
