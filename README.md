@@ -37,14 +37,23 @@ program_3a_cont- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/ma
 
 # String Exercise progams_3b_3c
 Exercise_1- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20193333.png)
+
 Exercise_2- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20193501.png)
+
 Exercise_3- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20193753.png)
+
 Exercise_4- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20193915.png)
+
 Exercise_5- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20194027.png)
-Exercise_6- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20194218.png)  
+
+Exercise_6- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20194218.png) 
+
 Exercise_7- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20194324.png)
+
 Exercise_8- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20194426.png)
+
 Exercise_9- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20194529.png)
+
 Exercise_10- (https://github.com/meghatambakad/ADVANCE-JAVA-PROGRAMS/blob/main/Screenshot%202025-05-19%20194650.png)
 
 
